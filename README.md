@@ -1,4 +1,3 @@
-````markdown
 # MarkeT Front
 
 Landing page desenvolvida com **React + Vite** para uma agência de gestão de marketing, com foco em performance, responsividade, apresentação de serviços e captação de leads.
@@ -49,7 +48,6 @@ MarkeT---Front/
 ├── vite.config.js
 └── README.md
 ````
-
 ## Como executar o projeto
 
 ### Pré-requisitos
