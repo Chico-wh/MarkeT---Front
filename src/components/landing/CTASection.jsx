@@ -3,7 +3,7 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import ScrollReveal from './ScrollReveal';
 import { ArrowRight } from 'lucide-react';
 
-const BG4 = 'https://media.base44.com/images/public/69f6a57b10525393756c2a2c/52066910c_generated_image.png';
+const BG4 = 'background.png';
 
 export default function CTASection() {
   const ref = useRef(null);

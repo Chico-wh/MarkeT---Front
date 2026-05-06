@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import ScrollReveal from './ScrollReveal';
 
-const BG3 = 'https://media.base44.com/images/public/69f6a57b10525393756c2a2c/84e393406_generated_image.png';
+const BG3 = 'background.png';
 
 const STEPS = [
   { num: '01', title: 'Diagnóstico',          micro: 'Marca, mercado, público, objetivos. Análise antes da execução.' },

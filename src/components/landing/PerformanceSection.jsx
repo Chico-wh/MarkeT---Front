@@ -2,7 +2,7 @@ import React, { useRef, useState, useEffect } from 'react';
 import { motion, useScroll, useTransform, useInView } from 'framer-motion';
 import ScrollReveal from './ScrollReveal';
 
-const BG2 = 'https://media.base44.com/images/public/69f6a57b10525393756c2a2c/a800d22e6_generated_image.png';
+const BG2 = 'background.png';
 
 const METRICS = [
   { value: 320, suffix: '%', prefix: '+', label: 'alcance qualificado',      sublabel: 'média em campanhas otimizadas' },

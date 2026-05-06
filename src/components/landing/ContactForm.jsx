@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import ScrollReveal from './ScrollReveal';
 import { ArrowRight, CheckCircle, Loader2 } from 'lucide-react';
 
-const BG5 = 'https://media.base44.com/images/public/69f6a57b10525393756c2a2c/c5ef2fa8e_generated_image.png';
+const BG5 = 'background.png';
 
 const SERVICES = [
   'Estratégia de marca',
